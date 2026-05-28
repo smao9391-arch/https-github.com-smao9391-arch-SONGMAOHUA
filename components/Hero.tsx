@@ -41,6 +41,14 @@ export default function Hero() {
                 查看作品
               </a>
               <a
+                href="https://pcnrv0hah2br.feishu.cn/docx/VZSFdQkWEouqwsxKYZncQZcpnWe?from=from_copylink"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="px-8 py-3 border-2 border-pink-600 dark:border-pink-400 text-pink-600 dark:text-pink-400 font-bold rounded-lg hover:bg-pink-50 dark:hover:bg-pink-950/20 transition-all"
+              >
+                完整作品集
+              </a>
+              <a
                 href="#contact"
                 className="px-8 py-3 border-2 border-purple-600 dark:border-purple-400 text-purple-600 dark:text-purple-400 font-bold rounded-lg hover:bg-purple-50 dark:hover:bg-purple-950/20 transition-all"
               >

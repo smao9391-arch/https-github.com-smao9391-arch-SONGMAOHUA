@@ -3,7 +3,7 @@ export const profileData = {
   title: "AIGC应用专家 | AI影视导演 | AI影视培训讲师",
   tagline: "心有猛虎，细嗅蔷薇",
   email: "790738808@qq.com",
-  avatar: "https://img.ntjqy.com/upload/images/20231123/e2e5d2f0a39a4a95a1ca6b47fcf0a9b0.jpg", // 黑神话悟空头像
+  avatar: "/avatar.jpg", // 头像图片放在 public/avatar.jpg
   bio: "专注于AI视频制作与创意设计，致力于探索AIGC在影视创意中的应用与创新。",
 };
 
@@ -94,12 +94,12 @@ export const skills = [
 export const projects = [
   {
     id: 1,
-    title: "渣夫把我送进疯人院",
+    title: "渣夫把我关进疯人院，我让他倾家荡产",
     category: "漫剧制作",
     platform: "红果漫剧平台",
-    description: "AI辅助创意与视频制作的漫剧作品",
+    description: "AI辅助创意与视频制作的漫剧作品，已在多平台上线",
     image: "https://via.placeholder.com/400x300?text=Project1",
-    videoUrl: "",
+    videoUrl: "https://novelquickapp.com/s/__x6HKU_KJQ/",
     year: 2024,
   },
   {
