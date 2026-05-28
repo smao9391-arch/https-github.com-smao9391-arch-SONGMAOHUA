@@ -98,7 +98,7 @@ export const projects = [
     category: "漫剧制作",
     platform: "红果漫剧平台",
     description: "AI辅助创意与视频制作的漫剧作品，已在多平台上线",
-    image: "/projects/lunatic.jpg",
+    image: "/lunatic.jpg",
     videoUrl: "https://novelquickapp.com/s/__x6HKU_KJQ/",
     year: 2024,
   },
