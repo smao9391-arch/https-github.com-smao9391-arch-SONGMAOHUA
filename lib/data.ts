@@ -11,7 +11,7 @@ export const experience = [
   {
     id: 1,
     company: "武汉中石影视",
-    position: "AIDC制作导演",
+    position: "AIGC制作导演",
     duration: "2024.1 - 2026.5",
     description: "负责AI视频内容制作与导演工作，主导多部漫剧作品上线",
     achievements: [
